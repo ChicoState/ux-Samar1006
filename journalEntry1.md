@@ -13,4 +13,4 @@ This solution demonstrates a very important heuristic in UX design known as **Vi
 Another reason this solution works well is that the icon to change the mode offers a very important **Affordance** to indicate to the player that it is able to be interacted with. Affordances are characteristics of a technology that indicate what the technology does. One affordance that makes it clear to the player that the icon to switch the mode is able to be interacted with is that it looks similar to the tiles that the player is trying to clear. If the mode icon had been a flat texture then the player might think that it is just a logo.
 
 ![Mode](assets/mode.jpg) 
-![Tile](assets/tile.jpg) 
+![Tile](assets/tileExample.jpg) 
