@@ -6,7 +6,7 @@ Minesweeper has historically been made for computers, however there have been nu
 
 I am a minesweeper enthusiast and wanted to find a version that I could play on my phone that was as easily playable on a computer with a mouse. After trying many different mobile versions of minesweeper I came across Minesweeper Go, which solved the flagging vs revealing the tile issue very elegantly. Minesweeper Go's solution was to have two different modes available to the player which changed what tapping on a tile would do. In digging mode, indicated by a shovel icon, the player would reveal the tile, and in flagging mode the player would place a flag on the tile. To change the mode the player just has to tap the icon at the bottom of the screen, which immediately switches to the other mode. 
 
-[Watch demo video](./assets/demo.mp4)
+[Watch demo video](./assets/demo.mov)
 
 This solution demonstrates a very important heuristic in UX design known as **Visibility of System Status**. This heuristic states that the design of the product should always give information as to what is happening by giving feedback in a reasonable time. Minesweeper Go's solution demonstrates this principle perfectly because it always informs the player on what their current action will do, and when the player wants to switch the mode it immediately updates.
 
